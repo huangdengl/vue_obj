@@ -1,0 +1,78 @@
+/** btn 圆角 */
+.btn-rounded{
+  border-radius:10000px;
+  -webkit-border-radius: 10000px;
+}
+
+/** icon title width */
+.icon_title_name_width{
+  width: 4rem;
+}
+
+@font-face {
+  font-family: 'icomoon';
+  src: url('fonts/icomoon.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-zz"], [class*="icon-zz"] {
+  font-family: 'icomoon' !important;
+}
+.icon-zz_address:before {
+  content: "\e900";
+}
+.icon-zz_balance_inquiries:before {
+  content: "\e901";
+}
+.icon-zz_capital:before {
+  content: "\e902";
+}
+.icon-zz_checking_data:before {
+  content: "\e903";
+}
+.icon-zz_checking_in:before {
+  content: "\e904";
+}
+.icon-zz_discount:before {
+  content: "\e905";
+}
+.icon-zz_finished:before {
+  content: "\e906";
+}
+.icon-zz_integral:before {
+  content: "\e907";
+}
+.icon-zz_order:before {
+  content: "\e908";
+}
+.icon-zz_sms_alarm:before {
+  content: "\e909";
+}
+.icon-zz_statistics:before {
+  content: "\e90a";
+}
+.icon-zz_userinfo:before {
+  content: "\e90b";
+}
+.icon-zz_payment:before {
+  content: "\e90c";
+}
+.icon-zz_newspaper:before {
+  content: "\e90d";
+}
+.icon-zz_phone:before {
+  content: "\e942";
+}
+.icon-zz_key2:before {
+  content: "\e98e";
+}
+.icon-zz_cog:before {
+  content: "\e994";
+}
+.icon-zz_cogs:before {
+  content: "\e995";
+}
+.icon-zz_steam:before {
+  content: "\eaac";
+}
